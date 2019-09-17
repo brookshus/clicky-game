@@ -12,11 +12,13 @@
 .card > .img-container {
   height: 100%;
   overflow: hidden;
-  background:#ffffff;
+  background-color:#ffffff;
 }
 
 .card > .img-container > img {
   height: 100%;
+  position: center;
+  background-color:#ffffff;
 }
 
 .card:hover {
